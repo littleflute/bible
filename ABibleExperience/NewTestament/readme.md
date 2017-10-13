@@ -1,9 +1,9 @@
 
-### [v0.0.5](https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/readme.md)
+### [v0.0.6](https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/readme.md)
 ### [cd01_Matthew_1-12](cd01)
 ### [cd02_Matthew_13-25](cd02)
 ### [cd03_Matthew_26-28_Mark_1-8](cd03)
-### [cd04](cd04)
+### [cd04_Mark_9-16_Luke_1-2](cd04)
 ### [cd05](cd05)
 ### [cd06](cd06)
 ### [cd07](cd07)
