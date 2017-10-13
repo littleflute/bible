@@ -1,6 +1,6 @@
 
-### [v0.0.2](https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/readme.md)
-### [cd01](cd01)
+### [v0.0.3](https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/readme.md)
+### [cd01_Matthew_1-12](cd01)
 ### [cd02](cd02)
 ### [cd03](cd03)
 ### [cd04](cd04)
