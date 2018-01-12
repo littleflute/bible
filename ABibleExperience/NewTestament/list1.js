@@ -1,5 +1,5 @@
 function _listClass(){
- this.v = "v0.0.33";
+ this.v = "v0.0.34";
  var ls = [];
  ls.push("https://littleflute.github.io/bible/ABibleExperience/NewTestament/list1.js");
  ls.push("https://littleflute.github.io/bible/ABibleExperience/NewTestament/list2.js");
@@ -23,12 +23,12 @@ function _listClass(){
 }
 var l = new _listClass;
 
-var s0 = '<div id="id_div_list_toolbar">';
+var s0 = '<div id="id_div_list1_toolbar">';
  s0 += '<a target="_blank" href="list1.js">' + v + '</a>-';
-  s0 += '<a target="_blank" href="https://github.com/littleflute/bible/edit/master/html/tools/blp/list.js">' + v + '*</a>';
+  s0 += '<a target="_blank" href="https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/list1.js">' + v + '*</a>';
   s0 += '</div>';
 
-var listUI= blo0.blMDiv(document.body,"id_mdiv_list1",s0,150,200,500,800,blColor[1]); 
+var listUI= blo0.blMDiv(document.body,"id_mdiv_list1",s0,150,200,500,800,blColor[2]); 
 listUI.view = blo0.blDiv(listUI,listUI.id+"view","view:",blColor[6]);
 listUI.tb = bl$('id_div_list_toolbar');
 listUI.tb.b1 = blo0.blBtn(listUI.tb,listUI.tb.id+"b1","b1","grey"); 
