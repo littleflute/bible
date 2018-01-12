@@ -1,12 +1,12 @@
-var v = "v0.1.1";
+var v = "v0.1.2";
 
 function _listClass(){
- this.v = "v0.0.35";
+ this.v = "v0.0.41";
  var ls = [];
  ls.push("https://littleflute.github.io/bible/ABibleExperience/NewTestament/list1.js");
  ls.push("https://littleflute.github.io/bible/ABibleExperience/NewTestament/list2.js");
  
- this.blr_List1 = function(b,d){  
+ this.blr_CD1 = function(b,d){  
   if(!d.view){
     d.tb = blo0.blDiv(d,d.id+"tb","tb:",blColor[3]);
     d.view = blo0.blDiv(d,d.id+"view","view:",blColor[1]);
