@@ -1,5 +1,5 @@
 function _listClass(){
- this.v = "v0.0.34";
+ this.v = "v0.0.35";
  var ls = [];
  ls.push("https://littleflute.github.io/bible/ABibleExperience/NewTestament/list1.js");
  ls.push("https://littleflute.github.io/bible/ABibleExperience/NewTestament/list2.js");
@@ -24,7 +24,7 @@ function _listClass(){
 var l = new _listClass;
 
 var s0 = '<div id="id_div_list1_toolbar">';
- s0 += '<a target="_blank" href="list1.js">' + v + '</a>-';
+ s0 += '<a target="_blank" href="https://littleflute.github.io/bible/ABibleExperience/NewTestament/list1.js">' + v + '</a>-';
   s0 += '<a target="_blank" href="https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/list1.js">' + v + '*</a>';
   s0 += '</div>';
 
