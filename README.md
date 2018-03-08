@@ -1,4 +1,4 @@
-### [v0.0.12](https://github.com/littleflute/bible/edit/master/README.md)
+### [v0.0.13](https://github.com/littleflute/bible/edit/master/README.md)
 ### [The Bible Experience New Testament Audiobook CD - 2006](The Bible Experience New Testament Audiobook CD - 2006)
 ### [ABibleExperience/NewTestament](ABibleExperience/NewTestament)
 
