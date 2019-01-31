@@ -1,5 +1,5 @@
 
-### [v0.0.15](https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/readme.md) [..](..)
+### [v0.0.21](https://github.com/littleflute/bible/edit/master/ABibleExperience/NewTestament/readme.md) [..](..)
 ### [list1.js](list1.js)
 ### [cd01_Matthew_1-12](cd01)
 ### [cd02_Matthew_13-25](cd02)
@@ -14,6 +14,6 @@
 ### [cd12 Romans 13-16 & 1 Corinthians 1-](cd12)
 ### [cd13](cd13)
 ### [cd14](cd14)
-### [cd15](cd15)
+### [【cd15 2 Thessalonians 1-3; ...】](cd15)
 ### [cd16](cd16)
 ### [cd17](cd17)
