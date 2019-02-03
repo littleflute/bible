@@ -1,4 +1,5 @@
-### [v0.0.13](https://github.com/littleflute/bible/edit/master/README.md)
+### [v0.0.14](https://github.com/littleflute/bible/edit/master/README.md)
+## [圣经综合解读](https://cmcbiblereading.com/)
 ### [The Bible Experience New Testament Audiobook CD - 2006](The Bible Experience New Testament Audiobook CD - 2006)
 ### [ABibleExperience/NewTestament](ABibleExperience/NewTestament)
 
