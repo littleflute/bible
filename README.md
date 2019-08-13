@@ -1,4 +1,5 @@
-### [v0.0.24](https://github.com/littleflute/bible/edit/master/README.md)
+### [v0.0.25](https://github.com/littleflute/bible/edit/master/README.md)
+## [http://www.ccc-corvallis.org/2018/sunday-message/](http://www.ccc-corvallis.org/2018/sunday-message/)
 ## [study](study)
 ## [圣经综合解读](https://cmcbiblereading.com/)
 ### [1-john](https://www.biblica.com/bible/niv/1-john/1/) [约翰一书](https://www.biblica.com/bible/ccb/%E7%BA%A6%E7%BF%B0%E4%B8%80%E4%B9%A6/1/)
