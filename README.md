@@ -1,4 +1,4 @@
-### [v0.0.25](https://github.com/littleflute/bible/edit/master/README.md)
+### [v0.0.31](https://github.com/littleflute/bible/edit/master/README.md)
 ## [http://www.ccc-corvallis.org/2018/sunday-message/](http://www.ccc-corvallis.org/2018/sunday-message/)
 ## [study](study)
 ## [圣经综合解读](https://cmcbiblereading.com/)
@@ -10,7 +10,7 @@
 ### [https://littleflute.github.io/bible1](https://littleflute.github.io/bible1) [247M]
 
 
-<script src="https://www.w3schools.com/lib/w3.js"></script>
+<script src="https://littleflute.github.io/JavaScript/w3.js"></script>
 <script src="https://littleflute.github.io/JavaScript/blclass.js" ></script>
 <script src="https://littleflute.github.io/JavaScript/blApp.js"></script>
 <script src="blAppPlx.js"></script>
