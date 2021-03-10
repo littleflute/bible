@@ -3,29 +3,24 @@
 <body> 
 <script src="https://www.w3schools.com/lib/w3.js"></script>				
 <script src="https://littleflute.github.io/JavaScript/blclass.js"></script>		
-<script src="https://littleflute.github.io/JavaScript/blApp1.js"></script>		
+<script src="https://littleflute.github.io/JavaScript/blApp.js"></script>		
 <div id="id_div_mp4i_bat_info" >								
-<a target="_blank" href="https://github.com/littleflute/ted1/edit/master/docs/61/mp4i.bat">v1.3. 112 * </a>	
-<a href="..">[..]</a> <button id="id_btn_4_blApp" style="float:right;">+blApp</button>	
+<a target="_blank" href="https://github.com/littleflute/bat/edit/master/bat/mp4index/mp4i.bat">v1.3. 15 * </a>	
+<a href="..">[..]</a> <button id="id_btn_4_blApp">+++++++++++blApp+++++++++</button>	
 </div>						 
 <div id="DivCurTime"></div> 			
 <br>  
 <div id="DivButtons"> 				
-<div id="DivButtons"> 				
-<div id="DivButtons"> 				
-<button onclick="play('01 Track 1.mp3')">1:01 Track 1.mp3</button> 
-<button onclick="play('02 Track 2.mp3')">2:02 Track 2.mp3</button> 
-<button onclick="play('03 Track 3.mp3')">3:03 Track 3.mp3</button> 
-<button onclick="play('04 Track 4.mp3')">4:04 Track 4.mp3</button> 
-<button onclick="play('05 Track 5.mp3')">5:05 Track 5.mp3</button> 
-<button onclick="play('06 Track 6.mp3')">6:06 Track 6.mp3</button> 
-<button onclick="play('07 Track 7.mp3')">7:07 Track 7.mp3</button> 
-<button onclick="play('08 Track 8.mp3')">8:08 Track 8.mp3</button> 
-<button onclick="play('09 Track 9.mp3')">9:09 Track 9.mp3</button> 
+<button onclick="play('02 Track 2.mp3')">1:02 Track 2.mp3</button> 
+<button onclick="play('03 Track 3.mp3')">2:03 Track 3.mp3</button> 
+<button onclick="play('04 Track 4.mp3')">3:04 Track 4.mp3</button> 
+<button onclick="play('05 Track 5.mp3')">4:05 Track 5.mp3</button> 
+<button onclick="play('06 Track 6.mp3')">5:06 Track 6.mp3</button> 
+<button onclick="play('07 Track 7.mp3')">6:07 Track 7.mp3</button> 
+<button onclick="play('08 Track 8.mp3')">7:08 Track 8.mp3</button> 
+<button onclick="play('09 Track 9.mp3')">8:09 Track 9.mp3</button> 
+<button onclick="play('Luke3.mp3')">9:Luke3.mp3</button> 
  </div> 			
-<br> 	
-<div id="id_div_4_gif" style="border:1px solid green;" >				
-</div> 									
 <br> 	
 <div id="id_div_4_jpg" style="border:1px solid blue;" >				
 </div> 									
@@ -36,12 +31,10 @@
 <div id="id_div_4_lrcJS" style="border:1px solid red;display: none;" >		
 </div> 								
 <script>  
-var s = '::<div id="id_4_plxTool"> </div>';				
 var str4V = '<video id="myVideo" width="720" height="480" controls> ';				
 str4V += '<source src="v1.mp4" type="video/mp4">Your browser does not support HTML5 video.'; 	
 str4V += '</video>';  										
-var md4v = blo0.blMD( "id_mdiv_4_myVideo" , s , 300,100,720,480,blColor[1]); 	
-  md4v.v = blo0.blDiv(md4v, md4v.id+"v" , str4V , blGrey[1]); 	
+var md4v = blo0.blMDiv(document.body,"id_mdiv_4_myVideo" , str4V , 300,100,500,400,blColor[1]); 	
 var vid = document.getElementById("myVideo"); 
 function play(i) {
     vid.src=i; 
@@ -59,14 +52,12 @@ function moveMS(ms) {
   vid.currentTime+=ms;
   getCurTime();  
 }   
-var btnPlx = blo0.blBtn(bl$("id_4_plxTool"),"id_btn_Plx","+plx",blGrey[0]);  
-btnPlx.onclick = function() { 
-  if(btnPlx.Load){													
- 	if(btnPlx.n){}													
- 	else{btnPlx.n=true;_on_off_div(this,bl$("id_mdiv_plx"));}		
-   _on_off_div(this,bl$("id_mdiv_plx"));  							
-  }																
-  else  { blo0.blScript ("id_script_plx","plx.js"); btnPlx.Load=true;	}
-}   
+var _loadScript = function (id,src){					
+var	r = document.createElement("script");				
+r.id = id;								
+r.src = src; 								
+document.body.appendChild(r);						
+}									
+_loadScript ("id_script_plx","plx.js");				
 </script> 
 </body> 
